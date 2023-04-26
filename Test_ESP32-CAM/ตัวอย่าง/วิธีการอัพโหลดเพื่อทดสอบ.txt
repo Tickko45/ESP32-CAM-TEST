@@ -1,0 +1,8 @@
+อัพ CODE ด้วย  TTL
+https://www.youtube.com/watch?v=SvIuhBM5iB4&list=PLfbIXy9BknVQLmDidDukLKTVAribOgthr&index=8&t=13s
+
+อัพ CODE ด้วย Base หรือฐานของ ESP32-CAM
+https://www.youtube.com/watch?v=ddAKoiMx63U&list=PLfbIXy9BknVQLmDidDukLKTVAribOgthr&index=4
+
+อัพ CODE ด้วย Firmware TASMOTA
+https://www.youtube.com/watch?v=8AHDj1Qj-N4&list=PLfbIXy9BknVQLmDidDukLKTVAribOgthr&index=7
